@@ -98,14 +98,26 @@
 </div>
 <div align="left">
 
-*Artificial Intelligence**
+*### **ARTIFICIAL INTELLIGENCE | AI SECURITY STACK**
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" >
+<!-- LLM PLATFORMS -->
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" >
-<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" >
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" >
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" >
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" >
-<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" >
+<img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black" >
 
-  
-</div>
+<!-- AGENT & ORCHESTRATION FRAMEWORKS -->
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" >
+<img src="https://img.shields.io/badge/LangGraph-0052CC?style=for-the-badge&logo=apachekafka&logoColor=white" >
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" >
+<img src="https://img.shields.io/badge/AutoGen-2F855A?style=for-the-badge&logo=microsoft&logoColor=white" >
+<img src="https://img.shields.io/badge/AI%20Agents-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white" >
+
+<!-- RAG & MODEL CONTROL -->
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white" >
+<img src="https://img.shields.io/badge/MCP-0A66C2?style=for-the-badge&logo=protocols&logoColor=white" >
+
+<!-- AUTOMATION -->
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" >
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" >
