@@ -76,5 +76,36 @@
 </div>
 
 <div align="left">
-  
+  **Programming Skills and Tools**
 
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,mysql,html,css,docker,git,github,vscode)](https://skillicons.dev)
+  
+</div>
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+ 
+**Operating system**
+
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,android)](https://skillicons.dev)
+  
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+<div align="left">
+
+*Artificial Intelligence**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" >
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" >
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" >
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" >
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" >
+<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" >
+
+  
+</div>
