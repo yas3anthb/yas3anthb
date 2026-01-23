@@ -121,3 +121,56 @@
 <!-- AUTOMATION -->
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" >
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" >
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+
+## 🌐 COMMUNITY & IMPACT
+
+</div>
+
+
+<div align="left">
+  
+- ✍️ Security writeups & knowledge sharing
+- 🎤 Workshops & community sessions
+- 🧠 Mentoring upcoming security researchers
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+
+## 📬 CONNECT / WORK WITH ME
+
+</div>
+
+<div align="left">
+
+> Available for **AI Security Assessments**, **AI Application Security**, **Freelance Security Assessments**, **Full-Time / Contract Roles**, and **Bug Bounty Collaboration**.
+
+</div>
+<div align="left">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Yaswanthbhathrasamy)
+
+</div>
+
+
+<p align="left">
+<b>Let’s break it before attackers do.</b>
+</p>
+
+
+
+
+
+
