@@ -26,3 +26,21 @@
 🔹 PASSIONATE ABOUT CONTINUOUS LEARNING AND STAYING UPDATED WITH **EMERGING THREATS AND MODERN ATTACK VECTORS**.
 
 <div align="left">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•**  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•**  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Yaswanthbhathrasamy)
+
+*Tools may change, mindset remains.*
+
+</div>
+
+</div>
+
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+
