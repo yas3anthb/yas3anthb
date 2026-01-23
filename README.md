@@ -27,9 +27,7 @@
 
 <div align="left">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•**  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•**  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Yaswanthbhathrasamy)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Yaswanthbhathrasamy)
 
 *Tools may change, mindset remains.*
 
@@ -41,6 +39,42 @@
 <div align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
 </div>
+<div align="left">
+
+## ⚡TECHNICAL STRENGTHS
+</div>
 
 <div align="left">
+  
+**Specialized Tools**
+
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" >
+<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" >
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" >
+<img src="https://img.shields.io/badge/POSTMAN-ce7e00?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Nikto-3a2f2f?style=for-the-badge" >
+<img src="https://img.shields.io/badge/OWASP_ZAP-0000ff?style=for-the-badge" >
+<img src="https://img.shields.io/badge/SQLmap-ffff00?style=for-the-badge" >
+<img src="https://img.shields.io/badge/POSTMAN-ce7e00?style=for-the-badge" >
+<img src="https://img.shields.io/badge/nessus-5d36c2?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Openvas-274e13?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Acunetix-073763?style=for-the-badge" >
+<img src="https://img.shields.io/badge/BeEF-8c7c7c?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Shodan-008000?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Cencys-ffa500?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Hydra-5b5b5b?style=for-the-badge" >
+<img src="https://img.shields.io/badge/crackmapexec-000000?style=for-the-badge" >
+<img src="https://img.shields.io/badge/BloodHound-f51707?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Impacket-3b7ab4?style=for-the-badge" >
+<img src="https://img.shields.io/badge/john_the_ripper-741b47?style=for-the-badge" >
+<img src="https://img.shields.io/badge/mimikatz-16537e?style=for-the-badge" >
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
 
