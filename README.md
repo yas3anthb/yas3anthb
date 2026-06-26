@@ -161,7 +161,7 @@
 </div>
 <div align="left">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Yaswanthbhathrasamy)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yaswanth-b-b21334283/) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yaswanthvisa@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yas3anthb/)
 
 </div>
 
